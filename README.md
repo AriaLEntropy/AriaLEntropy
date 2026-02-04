@@ -1,12 +1,16 @@
 ## 👋 Hello, nice to meet you~
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=🛰️ Sending signals of 'Thank you' and 'Love' to the center of the universe..." />
+  <p align="center">
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=%E5%90%91%E7%9D%80%E5%AE%87%E5%AE%99%E4%B8%AD%E5%BF%83%EF%BC%8C%E7%94%A8%E6%97%A0%E7%BA%BF%E7%94%B5%E5%8F%91%E9%80%81%E8%B0%A2%E8%B0%A2%E5%92%8C%E7%88%B1%E7%9A%84%E4%BF%A1%E5%8F%B7%E3%80%82" alt="Typing SVG" />
+</p>
+</p>
 </p>
 
 ---
 
-### 🎨 Creative Side / 个人简介
+### 🎨 Creative Side
 - **Major:** Digital Media Arts @ BUU (Freshman) / 数字媒体艺术专业（大一）
 - **Hometown:** Wuhan ➡️ Beijing / 湖北武汉 ➡️ 北京
 - **Philosophy:** Exploring the world through the lens of Computer Science & Design. 
