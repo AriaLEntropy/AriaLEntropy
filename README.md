@@ -15,7 +15,7 @@
 - 🩵 **About:** Aria/小唉 · Born in 2007 · 19yo · Self-learning Frontend.
 
 ### 💻 Technical Journey
-- 🛠️ **Stacks:** `Next.js`, `React`, `Vue`
+- 🛠️ **Focus:** `Next.js`, `React`, `Vue`
 - 🤝 **Mission:** Mastering Frontend Engineering & Community Collaboration.
 
 ---
