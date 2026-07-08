@@ -12,10 +12,10 @@
 - 🏛️ **Major:** Digital Media Arts @ **BUU** (Freshman) / 数字媒体艺术专业（大一）
 - 📍 **Hometown:** Wuhan ➡️ Beijing / 湖北武汉 ➡️ 北京
 - 🧬 **Philosophy:** Exploring the world through the lens of **Computer Science & Design**. 
-- 🩵 **About:** Aria/小唉 · Born in 2007 · 19yo · Self-learning Frontend.
+- 🩵 **About:** Aria/小唉 · Born in 2007 · 19yo · Fullstack Developer.
 
 ### 💻 Technical Journey
-- 🛠️ **Focus:** `Next.js`, `React`, `Vue`
+- 🛠️ **Focus:** `Next.js`, `React`, `Vue`, `Golang`
 - 🤝 **Mission:** Mastering Frontend Engineering & Community Collaboration.
 
 ---
@@ -47,7 +47,7 @@
 
 ### 🛠️ Focus & Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,git,py&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,git,py,go&theme=dark" />
 </p>
 
 <p align="right">
