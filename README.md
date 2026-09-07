@@ -9,7 +9,7 @@
 ### 🎨 Creative Side
 > **"解放思想，实事求是，与时俱进。"**
 
-- 🏛️ **Major:** Digital Media Arts @ **BUU** (Freshman) / 数字媒体艺术专业（大一）
+- 🏛️ **Major:** Digital Media Arts / 数字媒体艺术专业（大二）
 - 📍 **Hometown:** Wuhan ➡️ Beijing / 湖北武汉 ➡️ 北京
 - 🧬 **Philosophy:** Exploring the world through the lens of **Computer Science & Design**. 
 - 🩵 **About:** Aria/小唉 · Born in 2007 · 19yo · Fullstack Developer.
