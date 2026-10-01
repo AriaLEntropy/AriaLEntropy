@@ -16,7 +16,7 @@
 
 > **"解放思想，实事求是，与时俱进。"**
 
-- 🎨 **Digital Media Arts** undergrad · 2007 · she/her — call me **Aria** or **小唉**
+- 🎨 **Digital Media Arts** undergrad · Class of 2029 (2025–2029) · 2007 · she/her — call me **Aria** or **小唉**
 - 💻 **Full-stack developer**, with a background in online **omni-channel operations**
 - 🏅 **2026 Tencent Rhino-Bird Open Source Talent Program** — **top-3** in the Issue challenge, and one of **25 global contributors** awarded the Tencent Open Source Contributor certificate
 - 🎯 Chose [**Tencent-TDS/KuiklyUI**](https://github.com/Tencent-TDS/KuiklyUI) as my Rhino-Bird project
@@ -24,8 +24,6 @@
 
 > 📺 Currently obsessed with **Pandora Hearts** and basically any RPG.
 > 💙 Shamelessly plugging **Wadanohara and the Great Blue Sea** and **zato**.
-
-
 
 ---
 
