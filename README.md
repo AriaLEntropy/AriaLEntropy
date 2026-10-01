@@ -1,57 +1,55 @@
-## 👋 Hello, nice to meet you~
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=%E5%90%91%E7%9D%80%E5%AE%87%E5%AE%99%E4%B8%AD%E5%BF%83%EF%BC%8C%E7%94%A8%E6%97%A0%E7%BA%BF%E7%94%B5%E5%8F%91%E9%80%81%E8%B0%A2%E8%B0%A2%E5%92%8C%E7%88%B1%E7%9A%84%E4%BF%A1%E5%8F%B7%E3%80%82" alt="Typing SVG" />
-</p>
-
----
-
-### 🎨 Creative Side
-> **"解放思想，实事求是，与时俱进。"**
-
-- 🏛️ **Major:** Digital Media Arts / 数字媒体艺术专业（大二）
-- 📍 **Hometown:** Wuhan ➡️ Beijing / 湖北武汉 ➡️ 北京
-- 🧬 **Philosophy:** Exploring the world through the lens of **Computer Science & Design**. 
-- 🩵 **About:** Aria/小唉 · Born in 2007 · 19yo · Fullstack Developer.
-
-### 💻 Technical Journey
-- 🛠️ **Focus:** `Next.js`, `React`, `Vue`, `Golang`
-- 🤝 **Mission:** Mastering Frontend Engineering & Community Collaboration.
-
----
-
-## 🕊️ My Spirit Guardian: Pandora Hearts
-
-<div align="center">
-  <img src="ozdance.jpg" width="85%" title="ozdance" style="border-radius: 10px;" />
-  <p><i>"I want to become someone who is gentle yet powerful, just like Oz Sama."</i></p>
-</div>
-
-<br/>
-
-<table align="center" style="border-collapse: collapse; border: none; border-spacing: 0; padding: 0;">
-  <tr style="border: none;">
-    <td align="center" valign="middle" style="border: none; padding: 0;">
-      <img src="alice&alyss.jpg" height="180" title="alice&alyss" style="display: block; margin: 0 4px;" />
+<table>
+  <tr>
+    <td valign="top">
+      <h3>👋 Hello, nice to meet you~</h3>
+      <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=24&pause=1300&color=9AE0FF&center=false&vCenter=true&width=480&height=60&lines=%E5%90%91%E7%9D%80%E5%AE%87%E5%AE%99%E4%B8%AD%E5%BF%83%EF%BC%8C%E7%94%A8%E6%97%A0%E7%BA%BF%E7%94%B5%E5%8F%91%E9%80%81%E8%B0%A2%E8%B0%A2%E5%92%8C%E7%88%B1%E7%9A%84%E4%BF%A1%E5%8F%B7%E3%80%82" alt="向着宇宙中心，用无线电发送谢谢和爱的信号。" />
     </td>
-    <td align="center" valign="middle" style="border: none; padding: 0;">
-      <img src="ozspeaking.jpg" height="180" title="ozspeaking" style="display: block; margin: 0 4px;" />
-    </td>
-    <td align="center" valign="middle" style="border: none; padding: 0;">
-      <img src="Alicelying.jpg" height="180" title="Alicelying" style="display: block; margin: 0 4px;" />
+    <td valign="top">
+      <img src="asya-shubina.jpg" width="160" style="border-radius: 14px;" alt="Asya Shubina" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Focus & Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,git,py,go&theme=dark" />
-</p>
+### About Me
+
+> **"解放思想，实事求是，与时俱进。"**
+
+- 🎨 **Digital Media Arts** undergrad · 2007 · she/her — call me **Aria** or **小唉**
+- 💻 **Full-stack developer**, with a background in online **omni-channel operations**
+- 🏅 **2026 Tencent Rhino-Bird Open Source Talent Program** — **top-3** in the Issue challenge, and one of **25 global contributors** awarded the Tencent Open Source Contributor certificate
+- 🎯 Chose [**Tencent-TDS/KuiklyUI**](https://github.com/Tencent-TDS/KuiklyUI) as my Rhino-Bird project
+- ✏️ Love drawing & ACG
+
+> 📺 Currently obsessed with **Pandora Hearts** and basically any RPG.
+> 💙 Shamelessly plugging **Wadanohara and the Great Blue Sea** and **zato**.
+
+
+
+---
+
+### Contact Me
+
+- 🐧 QQ: **2601255359**
+- 💬 WeChat: **DollyYui**
+
+---
+
+### GitHub Stats
+
+<table align="center">
+<tr>
+<td>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AriaLEntropy&show_icons=true&hide_border=true&count_private=true&title_color=58A6FF&icon_color=58A6FF" alt="Aria's GitHub Stats" />
+</td>
+<td>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriaLEntropy&layout=compact&hide_border=true&title_color=58A6FF" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
 <p align="right">
-  <br>
-  <b>Vistors count / 信号接收次数:</b>
+  <b>Visitors / 信号接收次数:</b>
   <img src="https://count.getloli.com/get/@AriaLEntropy?theme=moebooru" align="middle" />
 </p>
